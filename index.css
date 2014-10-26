@@ -1,0 +1,21 @@
+
+/**
+ * Urban Airship logo.
+ */
+
+.logo[data-logo="Urban Airship"] {
+  width: 0;
+}
+
+.logo[data-logo="Urban Airship"] > * {
+  background-image: url(images/logo.svg);
+  margin: 0 0 0 0;
+}
+
+.logo[data-logo="Urban Airship"][data-color="black"] > * {
+  background-image: url(images/logo-black.svg);
+}
+
+.logo[data-logo="Urban Airship"][data-color="white"] > * {
+  background-image: url(images/logo-white.svg);
+}
