@@ -3,7 +3,7 @@
   "name": "urban-airship",
   "repo": "logo/urban-airship",
   "description": "The Urban Airship logo.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "styles": [
     "index.css"
